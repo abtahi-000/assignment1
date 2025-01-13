@@ -479,3 +479,12 @@ header nav ul button{
     color:rgb(255, 255, 255);
     /* text-align: center; */ 
 }
+.foot-last p{
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-size: 16px;
+    color:rgba(14, 14, 14, .7);
+    display: flex;
+    justify-content:  center;
+    /* border: 2px solid red; */
+}
