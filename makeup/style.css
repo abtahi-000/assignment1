@@ -389,7 +389,7 @@ header nav ul button{
     height: 246px;
     width: 1260px;
     margin: 30px auto;
-    background-image: url("/assets/quote-bg.png");
+    background-image: url("./assets/quote-bg.png");
     background-repeat: no-repeat;
     padding: 48px 24px 48px 24px;
     background-position: 30px 20px;
